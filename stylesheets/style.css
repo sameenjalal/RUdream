@@ -96,6 +96,16 @@ div.package.panel {
 	height: 100%;
 }
 
+.rider {
+	font-style: italic;
+	font-weight: bold;
+	color: green;
+}
+
+.name {
+	color: blue;
+}
+
 .active {
   box-shadow: 0px 5px 10px #888;
 }
